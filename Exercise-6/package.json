@@ -1,0 +1,14 @@
+{
+  "name": "my-http-server",
+  "version": "1.0.0",
+  "description": "Creating HTTP server and client with Node.js and Axios",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "node client.js",
+    "client:axios": "node client-axios.js"
+  },
+  "dependencies": {
+    "axios": "^1.20.0"
+  }
+}

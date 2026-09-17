@@ -1,0 +1,10 @@
+{
+  "name": "exercise-2-todo-list",
+  "version": "1.0.0",
+  "description": "Todo List Application using ES6 Features",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
