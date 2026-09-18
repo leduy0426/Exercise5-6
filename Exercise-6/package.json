@@ -1,14 +1,12 @@
 {
-  "name": "my-http-server",
+  "name": "node-express-crud",
   "version": "1.0.0",
-  "description": "Creating HTTP server and client with Node.js and Axios",
-  "main": "server.js",
+  "description": "Exercise 6 - Node and Express (P1)",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js",
-    "client": "node client.js",
-    "client:axios": "node client-axios.js"
+    "start": "node app.js"
   },
   "dependencies": {
-    "axios": "^1.20.0"
+    "express": "^4.19.2"
   }
 }

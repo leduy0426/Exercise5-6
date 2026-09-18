@@ -1,10 +1,12 @@
 {
-  "name": "exercise-2-todo-list",
+  "name": "express-server",
   "version": "1.0.0",
-  "description": "Todo List Application using ES6 Features",
-  "type": "module",
-  "main": "app.js",
+  "description": "Creating a simple server with Express framework",
+  "main": "server.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
   }
 }
